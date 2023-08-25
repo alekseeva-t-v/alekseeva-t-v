@@ -2,7 +2,7 @@
 
 ## Тема: ***Компоненты***
 
-| Название работы      | Репозиторий | Демонстрация     |
+| Название работы      | Репозиторий | Демо   |
 | :---        |    :----:   |          ---: |
 | 🌟 Страница интернет-магазина (функциональный компонент) | <a href="https://github.com/alekseeva-t-v/store-func"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://store-func.vercel.app/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>  |
 | 🌟 Страница интернет-магазина (class-based компонент) | <a href="https://github.com/alekseeva-t-v/store-class"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://store-class.vercel.app/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>  |
@@ -10,7 +10,7 @@
 
 ## Тема: ***События и состояние***
 
-| Название работы      | Репозиторий | Демонстрация     |
+| Название работы      | Репозиторий | Демо   |
 | :---        |    :----:   |          ---: |
 | 🌟 Портфолио с фильтрами | <a href="https://github.com/alekseeva-t-v/filter"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://filter-umber.vercel.app/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>  |
 | 🌟 Расположение товаров | <a href="https://github.com/alekseeva-t-v/layouts"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://layouts-ten.vercel.app/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>  |
