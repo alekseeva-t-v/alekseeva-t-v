@@ -68,3 +68,16 @@
 <a href="https://github.com/alekseeva-t-v/chat"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a>
 <a href="https://dropdown-xi-ten.vercel.app/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>
 
+## Тема: ***Формы***
+
+🌟 Конвертер цветов
+
+<a href="https://github.com/alekseeva-t-v/hex2rgb"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a>
+<a href="https://hex2rgb.vercel.app/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>
+
+🌟 Учёт тренировок
+
+<a href="https://github.com/alekseeva-t-v/steps"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a>
+<a href="https://steps-lake.vercel.app/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>
+
+
