@@ -21,7 +21,7 @@
 | Название работы      | Репозиторий | Проект     |
 | :---        |    :----:   |          ---: |
 | 🌟 Рейтинг фильмов | <a href="https://github.com/alekseeva-t-v/films"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://films-mu-eight.vercel.app/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
-| 🌟 Список предложений<a href="https://github.com/alekseeva-t-v/listing"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://listing-tau.vercel.app/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
+| 🌟 Список предложений | <a href="https://github.com/alekseeva-t-v/listing"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://listing-tau.vercel.app/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
 | 🌟 История сообщений в чате | <a href="https://github.com/alekseeva-t-v/chat"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://dropdown-xi-ten.vercel.app/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
 
 ## Тема: ***Формы***
