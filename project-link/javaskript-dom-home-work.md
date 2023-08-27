@@ -1,12 +1,13 @@
-# Домашние работы по курсу [***"React для JS-разработчиков"***](https://netology.ru/programs/react)
+# Домашние работы по курсу [***"JavaScript-программирование для начинающих"***](https://cat.2035.university/rall/course/18787/?project_id=48)
+# Раздел: **Возможности JavaScript в браузере**
 
-## Тема: ***Компоненты***
+## Тема: ***Возможности JavaScript в браузере***
 
 | Название работы      | Репозиторий | Проект   |
 | :---        |    :----:   |          ---: |
-| 🌟 Страница интернет-магазина (функциональный компонент) | <a href="https://github.com/alekseeva-t-v/store-func"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://store-func.vercel.app/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>  |
-| 🌟 Страница интернет-магазина (class-based компонент) | <a href="https://github.com/alekseeva-t-v/store-class"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://store-class.vercel.app/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>  |
-| 🌟 Календарь | <a href="https://github.com/alekseeva-t-v/calendar"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://calendar-fawn.vercel.app/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>|
+| 🌟 Таймер обратного отсчёта | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/js-features/countdown"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/js-features/countdown/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>  |
+| 🌟 Игра-кликер | <a href="https://github.com/alekseeva-t-v/store-class"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://store-class.vercel.app/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>  |
+| 🌟 Игра «Убей кротов» | <a href="https://github.com/alekseeva-t-v/calendar"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://calendar-fawn.vercel.app/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>|
 
 ## Тема: ***События и состояние***
 
