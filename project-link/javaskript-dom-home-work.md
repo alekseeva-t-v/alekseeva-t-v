@@ -7,7 +7,7 @@
 | :---        |    :----:   |          ---: |
 | 🌟 Таймер обратного отсчёта | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/js-features/countdown"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/js-features/countdown/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>  |
 | 🌟 Игра-кликер | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/js-features/cookie-clicker"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/js-features/countdown/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>  |
-| 🌟 Игра «Убей кротов» | <a href="https://github.com/alekseeva-t-v/calendar"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://calendar-fawn.vercel.app/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>|
+| 🌟 Игра «Убей кротов» | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/js-features/mole-game"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/js-features/mole-game/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>|
 
 ## Тема: ***События и состояние***
 
