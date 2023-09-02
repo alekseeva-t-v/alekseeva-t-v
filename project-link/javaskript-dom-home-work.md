@@ -17,13 +17,13 @@
 | 🌟 Навигационное меню | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/element-search/menu"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/element-search/menu/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>  |
 | 🌟 Слайдер | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/element-search/slider"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/element-search/slider/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
 
-## Тема: ***Props***
+## Тема: ***Объект события***
 
 | Название работы      | Репозиторий | Проект     |
 | :---        |    :----:   |          ---: |
-| 🌟 Рейтинг фильмов | <a href="https://github.com/alekseeva-t-v/films"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://films-mu-eight.vercel.app/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
-| 🌟 Список предложений | <a href="https://github.com/alekseeva-t-v/listing"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://listing-tau.vercel.app/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
-| 🌟 История сообщений в чате | <a href="https://github.com/alekseeva-t-v/chat"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://chat-sand-three.vercel.app/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
+| 🌟 Выпадающие списки | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/event-object/dropdown"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/event-object/dropdown/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
+| 🌟 Соло на клавиатуре | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/event-object/keysolo"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/event-object/keysolo/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
+| 🌟 Управление вкладками | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/event-object/tabs"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/event-object/tabs/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
 
 ## Тема: ***Формы***
 
