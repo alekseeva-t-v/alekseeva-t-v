@@ -25,12 +25,13 @@
 | 🌟 Соло на клавиатуре | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/event-object/keysolo"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/event-object/keysolo/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
 | 🌟 Управление вкладками | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/event-object/tabs"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/event-object/tabs/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
 
-## Тема: ***Формы***
+## Тема: ***DOM***
 
 | Название работы      | Репозиторий | Проект     |
 | :---        |    :----:   |          ---: |
-| 🌟 Конвертер цветов | <a href="https://github.com/alekseeva-t-v/hex2rgb"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://hex2rgb.vercel.app/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
-| 🌟 Учёт тренировок | <a href="https://github.com/alekseeva-t-v/steps"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://steps-lake.vercel.app/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>
+| 🌟 Появление элементов при прокрутке | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/dom/reveal"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/dom/reveal/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
+| 🌟 Ротатор рекламы | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/dom/ads"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/dom/ads/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
+| 🌟 Онлайн-читалка | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/dom/book-reader"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/dom/book-reader/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>
 
 ## Тема: ***Композиция компонентов***
 
