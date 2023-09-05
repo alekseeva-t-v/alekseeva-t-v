@@ -33,12 +33,13 @@
 | 🌟 Ротатор рекламы | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/dom/ads"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/dom/ads/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
 | 🌟 Онлайн-читалка | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/dom/book-reader"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/dom/book-reader/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>
 
-## Тема: ***Композиция компонентов***
+## Тема: ***Работа с HTML-формами***
 
 | Название работы      | Репозиторий | Проект     |
 | :---        |    :----:   |          ---: |
-| 🌟 Карточки | <a href="https://github.com/alekseeva-t-v/cards"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://cards-umber-gamma.vercel.app/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
-| 🌟 Декомпозиция | <a href="https://github.com/alekseeva-t-v/decomposition"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://decomposition.vercel.app/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>
+| 🌟 Текстовый чат | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/html-forms/chat"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/html-forms/chat/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
+| 🌟 Дерево интересов | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/html-forms/interests"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/html-forms/interests/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
+| 🌟 Выпадающий список с поиском| <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/html-forms/autocomplete"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/html-forms/autocomplete/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>
 
 ## Тема: ***Жизненный цикл и работа с HTTP***
 
