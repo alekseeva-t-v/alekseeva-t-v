@@ -62,6 +62,7 @@
 | Название работы      | Репозиторий | Проект     |
 | :---        |    :----:   |          ---: |
 | 🌟 Текстовый редактор | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/client-state/text-editor"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/client-state/text-editor/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
-| 🌟 Фильтрация | <a href="https://github.com/alekseeva-t-v/filter-redux"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://filter-redux.vercel.app/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
+| 🌟 Всплывающее окно | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/client-state/popup"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/client-state/popup/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
+| 🌟 Авторизация | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/client-state/auth"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/client-state/auth/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>
 
 
