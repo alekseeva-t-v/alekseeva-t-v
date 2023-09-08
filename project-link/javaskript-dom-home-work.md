@@ -57,18 +57,11 @@
 | 🌟 Опрос с выбором результатов | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/async-requests/poll"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/async-requests/poll/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
 | 🌟 Загрузка больших файлов | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/async-requests/progressbar"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/async-requests/progressbar/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
 
-## Тема: ***Redux***
+## Тема: ***Хранение состояния на клиенте***
 
 | Название работы      | Репозиторий | Проект     |
 | :---        |    :----:   |          ---: |
-| 🌟 Редактирование | <a href="https://github.com/alekseeva-t-v/editing"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://editing-ruddy.vercel.app/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
+| 🌟 Текстовый редактор | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/client-state/text-editor"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/client-state/text-editor/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
 | 🌟 Фильтрация | <a href="https://github.com/alekseeva-t-v/filter-redux"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://filter-redux.vercel.app/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
-
-## Тема: ***Redux Toolkit***
-
-| Название работы      | Репозиторий | Проект     |
-| :---        |    :----:   |          ---: |
-| 🌟 Страница с фактами о Star Wars | <a href="https://github.com/alekseeva-t-v/star-wars"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://star-wars-ruby-pi.vercel.app/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
-| 🌟 Фото профиля | <a href="https://github.com/alekseeva-t-v/profile-photo"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://profile-photo.vercel.app/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
 
 
