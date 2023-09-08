@@ -1,7 +1,7 @@
 # Домашние работы по курсу [***"JavaScript-программирование для начинающих"***](https://cat.2035.university/rall/course/18787/?project_id=48)
 ## Раздел: **Возможности JavaScript в браузере**
 
-## Тема: *Возможности JavaScript в браузере*
+## Тема: Возможности JavaScript в браузере
 
 | Название работы      | Репозиторий | Проект   |
 | :---        |    :----:   |          ---: |
@@ -9,7 +9,7 @@
 | 🌟 Игра-кликер | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/js-features/cookie-clicker"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/js-features/countdown/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>  |
 | 🌟 Игра «Убей кротов» | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/js-features/mole-game"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/js-features/mole-game/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>|
 
-## Тема: *Способы поиска нужного HTML-элемента*
+## Тема: Способы поиска нужного HTML-элемента
 
 | Название работы      | Репозиторий | Проект   |
 | :---        |    :----:   |          ---: |
@@ -17,7 +17,7 @@
 | 🌟 Навигационное меню | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/element-search/menu"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/element-search/menu/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>  |
 | 🌟 Слайдер | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/element-search/slider"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/element-search/slider/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
 
-## Тема: *Объект события*
+## Тема: Объект события
 
 | Название работы      | Репозиторий | Проект     |
 | :---        |    :----:   |          ---: |
@@ -25,7 +25,7 @@
 | 🌟 Соло на клавиатуре | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/event-object/keysolo"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/event-object/keysolo/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
 | 🌟 Управление вкладками | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/event-object/tabs"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/event-object/tabs/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
 
-## Тема: *DOM*
+## Тема: DOM
 
 | Название работы      | Репозиторий | Проект     |
 | :---        |    :----:   |          ---: |
@@ -33,7 +33,7 @@
 | 🌟 Ротатор рекламы | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/dom/ads"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/dom/ads/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
 | 🌟 Онлайн-читалка | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/dom/book-reader"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/dom/book-reader/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>
 
-## Тема: *Работа с HTML-формами*
+## Тема: Работа с HTML-формами
 
 | Название работы      | Репозиторий | Проект     |
 | :---        |    :----:   |          ---: |
@@ -41,7 +41,7 @@
 | 🌟 Дерево интересов | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/html-forms/interests"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/html-forms/interests/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
 | 🌟 Выпадающий список с поиском| <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/html-forms/autocomplete"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/html-forms/autocomplete/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>
 
-## Тема: *Изменение структуры HTML-документа*
+## Тема: Изменение структуры HTML-документа
 
 | Название работы      | Репозиторий | Проект     |
 | :---        |    :----:   |          ---: |
@@ -49,7 +49,7 @@
 | 🌟 Корзина товаров | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/document-structure/cart"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/document-structure/cart/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
 | 🌟 Простой список дел | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/document-structure/todo"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/document-structure/todo/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>
 
-## Тема: *Асинхронные запросы*
+## Тема: Асинхронные запросы
 
 | Название работы      | Репозиторий | Проект     |
 | :---        |    :----:   |          ---: |
@@ -57,7 +57,7 @@
 | 🌟 Опрос с выбором результатов | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/async-requests/poll"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/async-requests/poll/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
 | 🌟 Загрузка больших файлов | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/async-requests/progressbar"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/async-requests/progressbar/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
 
-## Тема: ***Хранение состояния на клиенте***
+## Тема: Хранение состояния на клиенте
 
 | Название работы      | Репозиторий | Проект     |
 | :---        |    :----:   |          ---: |
