@@ -49,12 +49,13 @@
 | 🌟 Корзина товаров | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/document-structure/cart"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/document-structure/cart/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
 | 🌟 Простой список дел | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/document-structure/todo"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/document-structure/todo/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>
 
-## Тема: *Компоненты высшего порядка*
+## Тема: *Асинхронные запросы*
 
 | Название работы      | Репозиторий | Проект     |
 | :---        |    :----:   |          ---: |
-| 🌟 Форматирование даты публикации | <a href="https://github.com/alekseeva-t-v/time"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://time-brown-gamma.vercel.app/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
-| 🌟 Популярное и новое | <a href="https://github.com/alekseeva-t-v/highlight"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://highlight-lemon.vercel.app/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
+| 🌟 Анимация загрузки данных | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/async-requests/preloader"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/async-requests/preloader/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
+| 🌟 Опрос с выбором результатов | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/async-requests/poll"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/async-requests/poll/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
+| 🌟 Загрузка больших файлов | <a href="https://github.com/alekseeva-t-v/bhj-homeworks/tree/master/async-requests/progressbar"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bhj-homeworks/async-requests/progressbar/task"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a> |
 
 ## Тема: ***Redux***
 
