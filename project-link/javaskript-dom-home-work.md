@@ -1,4 +1,17 @@
 # Домашние работы по курсу [***"JavaScript-программирование для начинающих"***](https://cat.2035.university/rall/course/18787/?project_id=48)
+
+## Раздел: **Основы JavaScript**
+| Тема      | Репозиторий | Тесты   |
+| :---        |    :----:   |          ---: |
+| 🌟 Основные понятия | <a href="https://github.com/alekseeva-t-v/bjs-2-homeworks/tree/bjs-53/1.base-concepts"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bjs-2-homeworks/1.base-concepts/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>  |
+| 🌟 Функции | <a href="https://github.com/alekseeva-t-v/bjs-2-homeworks/tree/bjs-53/2.functions"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bjs-2-homeworks/2.functions/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>  |
+| 🌟 Массивы | <a href="https://github.com/alekseeva-t-v/bjs-2-homeworks/tree/bjs-53/3.arrays"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bjs-2-homeworks/3.arrays/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>|
+| 🌟 Объекты | <a href="https://github.com/alekseeva-t-v/bjs-2-homeworks/tree/bjs-53/4.objects"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bjs-2-homeworks/4.objects/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>|
+| 🌟 Классы | <a href="https://github.com/alekseeva-t-v/bjs-2-homeworks/tree/bjs-53/5.classes"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bjs-2-homeworks/5.classes/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>|
+| 🌟 Обработка исключений | <a href="https://github.com/alekseeva-t-v/bjs-2-homeworks/tree/bjs-53/6.exception-closure"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bjs-2-homeworks/6.exception-closure/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>|
+| 🌟 Асинхронность | <a href="https://github.com/alekseeva-t-v/bjs-2-homeworks/tree/bjs-53/7.async"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bjs-2-homeworks/7.async/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>|
+| 🌟 Декораторы | <a href="https://github.com/alekseeva-t-v/bjs-2-homeworks/tree/bjs-53/8.decorators"><img src="https://img.shields.io/badge/GitHub-96dbf9?style=for-the-badge"/></a> | <a href="https://alekseeva-t-v.github.io/bjs-2-homeworks/8.decorators/"><img src="https://img.shields.io/badge/Demo-50b8e4?style=for-the-badge"/></a>|
+
 ## Раздел: **Возможности JavaScript в браузере**
 
 ## Тема: Возможности JavaScript в браузере
